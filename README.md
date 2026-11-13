@@ -91,7 +91,6 @@ public class Anjali {
 ```text
 💻 Java
 🧠 Data Structures & Algorithms
-⚡ LeetCode
 📚 Backend Development
 🚀 Full Stack Projects
 ```
@@ -130,7 +129,7 @@ Languages   : Java • C++ • Python • JavaScript • PHP
 
 Frameworks  : Spring Boot • Node.js • Express.js
 
-Databases   : MongoDB • MySQL • PostgreSQL
+Databases   : MongoDB • MySQL • PostgreSQL 
 
 Tools       : Git • GitHub • VS Code • IntelliJ IDEA • Postman
 ```
@@ -140,7 +139,6 @@ Tools       : Git • GitHub • VS Code • IntelliJ IDEA • Postman
 # 🎯 2026 Goals
 
 - ✅ Crack a Software Engineering Internship
-- ✅ Solve 500+ LeetCode Problems
 - ✅ Build Scalable Full Stack Applications
 - ✅ Contribute to Open Source
 - ✅ Improve Problem Solving Skills
